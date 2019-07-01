@@ -19,13 +19,13 @@ The following source material is available for importation. Release 8 was select
 
 These contain the available source material.
 
-| Release | Serial | Story File           | Zarf Sources  | Jason Scott Sources  |
-| -------:|:------:|:--------------------:|:-------------:| -------------------- |
-|       8 | 840521 | [-mac-r8-s840521.z3] | [-mac-r8.zip] |                      |
-|   later |        |                      | [-rlater.zip] |    [original-source] |
+| Release | Serial | Story File             | Zarf Sources    | Jason Scott Sources  |
+| -------:|:------:|:----------------------:|:---------------:| -------------------- |
+|       8 | 840521 | [..-mac-r8-s840521.z3] | [..-mac-r8.zip] |                      |
+|   later |        |                        | [..-rlater.zip] |    [original-source] |
 
-[-mac-r8-s840521.z3]: https://eblong.com/infocom/gamefiles/suspended-mac-r8-s840521.z3
-[-mac-r8.zip]: https://eblong.com/infocom/sources/suspended-mac-r8.zip
+[..-mac-r8-s840521.z3]: https://eblong.com/infocom/gamefiles/suspended-mac-r8-s840521.z3
+[..-mac-r8.zip]: https://eblong.com/infocom/sources/suspended-mac-r8.zip
 
-[-rlater.zip]: https://eblong.com/infocom/sources/suspended-rlater.zip
+[..-rlater.zip]: https://eblong.com/infocom/sources/suspended-rlater.zip
 [original-source]: https://github.com/historicalsource/suspended/tree/d88d7a8bc28285cb1088060e8daf9cc97c01dd50
