@@ -19,14 +19,14 @@ The following source material is available for importation. Release 8 was select
 
 These contain the available source material.
 
-| Release | Serial | Story File                    | Zarf Sources           | Jason Scott Sources         |
-| -------:|:------:|:-----------------------------:|:----------------------:| --------------------------- |
-|       8 | 840521 | [suspended-mac-r8-s840521.z3] | [suspended-mac-r8.zip] |                             |
-|   later |        |                               | [suspended-rlater.zip] | [suspended-original-source] |
+| Release | Serial | Story File                    | Zarf Sources           | Jason Scott Sources  |
+| -------:|:------:|:-----------------------------:|:----------------------:| -------------------- |
+|       8 | 840521 | [suspended-mac-r8-s840521.z3] | [suspended-mac-r8.zip] |                      |
+|   later |        |                               | [suspended-rlater.zip] |    [original-source] |
 
 [suspended-mac-r8-s840521.z3]: https://eblong.com/infocom/gamefiles/suspended-mac-r8-s840521.z3
 [suspended-mac-r8.zip]: https://eblong.com/infocom/sources/suspended-mac-r8.zip
 [starcross-revision-15]: https://https://github.com/historicalsource/starcross/tree/f9f770f8c72a10c2f2ac4317c5e0e01e779c2f5b
 
 [suspended-rlater.zip]: https://eblong.com/infocom/sources/suspended-rlater.zip
-[suspended-original-source]: https://github.com/historicalsource/suspended/tree/d88d7a8bc28285cb1088060e8daf9cc97c01dd50
+[original-source]: https://github.com/historicalsource/suspended/tree/d88d7a8bc28285cb1088060e8daf9cc97c01dd50
