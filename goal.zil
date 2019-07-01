@@ -165,7 +165,7 @@
 
 <GLOBAL COR-256
 	<PTABLE P?WEST P?EAST
-	       SKY4 SKY3 SKY2 SKY1 0>>
+	       SKY3 SKY2 SKY1 0>>
 	       
 
 "CODE"

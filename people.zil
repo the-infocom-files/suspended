@@ -146,7 +146,7 @@ AUDA: I hear the sound of metal being placed on the floor." CR>)>
 	 <DISABLE <INT I-STEAL>>
 	 <I-PEOPLE2>
 	 <SETG PR-NUMBER 3>
-	 <SET-GOAL ,PEOPLE ,INNER-CORE>>>
+	 <SET-GOAL ,PEOPLE ,INNER-CORE>>
 
 <ROUTINE PEOPLE-GIVEN-BAG ()
 	 <ROBOT-TELL "Given.">

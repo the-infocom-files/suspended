@@ -875,7 +875,7 @@ Extrapolation based on current weather systems and food supplies:|
 	(FLAGS VICBIT NDESCBIT OPENBIT CONTBIT SEARCHBIT VILLAIN)
 	(DESC "People")
 	(ACTION PEOPLE-FCN)
-	(CLC-TXT <PLTABLE "They are carbon-based, organic mechanisms." "They are here to replace you. You must stop them at all costs." "I refer you to Gregory Franklin...">)
+	;(CLC-TXT <PLTABLE "They are carbon-based, organic mechanisms." "They are here to replace you. You must stop them at all costs." "I refer you to Gregory Franklin...">)
 	(ROBOT 7)
 	(OBJDESCS <PLTABLE
 1 1 1 1 1 1 
