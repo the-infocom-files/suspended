@@ -44,4 +44,6 @@ Zarf's Obsessively Complete Infocom Catalog holds copies of the game files for e
 
 ## Future Development
 
+Version 8/840521 has been selected as the starting point for future development.
+
 Compilation issues are recorded [here](https://github.com/the-infocom-files/suspended/issues/2).
