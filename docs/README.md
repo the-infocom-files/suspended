@@ -20,15 +20,13 @@ The following sources provide further information on Suspended:
 
 ## Version History
 
-Zarf's Obsessively Complete Infocom Catalog holds copies of the game files for every existing version of Suspended listed in the Infocom Fact Sheet. It also holds the source files for version 8/840521 and for a later, work in progress, version.
-
-| Release | Serial | Story File                    | Zarf Sources           | Historical Sources |
-| -------:|:------:|:-----------------------------:|:----------------------:|:------------------:|
-|       5 | 830222 |     [suspended-r5-s830222.z3] |                      - |                  - |
-|       7 | 830419 |     [suspended-r7-s830419.z3] |                      - |                  - |
-|       8 | 830521 |     [suspended-r8-s830521.z3] |                      - |                  - |
-|       8 | 840521 | [suspended-mac-r8-s840521.z3] | [suspended-mac-r8.zip] |                  - |
-|       - |      - |                             - | [suspended-rlater.zip] |  [original source] |
+| Release | Serial | Type | Story File                    | Obsessive Sources      | Historical Sources |
+| -------:|:------:|:----:|:-----------------------------:|:----------------------:|:------------------:|
+|       5 | 830222 |  PUB |     [suspended-r5-s830222.z3] |                      - |                  - |
+|       7 | 830419 |  PUB |     [suspended-r7-s830419.z3] |                      - |                  - |
+|       8 | 830521 |  PUB |     [suspended-r8-s830521.z3] |                      - |                  - |
+|       8 | 840521 |  PUB | [suspended-mac-r8-s840521.z3] | [suspended-mac-r8.zip] |                  - |
+|       - |      - |  WIP |                             - | [suspended-rlater.zip] |  [original source] |
 
 [suspended-r5-s830222.z3]: https://eblong.com/infocom/gamefiles/suspended-r5-s830222.z3
 
